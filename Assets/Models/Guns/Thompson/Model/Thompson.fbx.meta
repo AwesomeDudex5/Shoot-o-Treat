@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: d52f87fe9feae8a43b667d00cd8380c2
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Body
+    100002: BOLT
+    100004: Camera
+    100006: Cylinder.000
+    100008: Cylinder.001
+    100010: Cylinder.002
+    100012: Cylinder.003
+    100014: Cylinder.004
+    100016: Ejector
+    100018: Grip
+    100020: Handle
+    100022: Mag
+    100024: RearSight
+    100026: RearSightPart
+    100028: Stock
+    100030: //RootNode
+    100032: Trigger
+    400000: Body
+    400002: BOLT
+    400004: Camera
+    400006: Cylinder.000
+    400008: Cylinder.001
+    400010: Cylinder.002
+    400012: Cylinder.003
+    400014: Cylinder.004
+    400016: Ejector
+    400018: Grip
+    400020: Handle
+    400022: Mag
+    400024: RearSight
+    400026: RearSightPart
+    400028: Stock
+    400030: //RootNode
+    400032: Trigger
+    2000000: Camera
+    2100000: Body
+    2100002: Metal
+    2100004: woodtexture
+    2100006: Brass
+    2100008: tip
+    2300000: Body
+    2300002: BOLT
+    2300004: Cylinder.000
+    2300006: Cylinder.001
+    2300008: Cylinder.002
+    2300010: Cylinder.003
+    2300012: Cylinder.004
+    2300014: Ejector
+    2300016: Grip
+    2300018: Handle
+    2300020: Mag
+    2300022: RearSight
+    2300024: RearSightPart
+    2300026: Stock
+    2300028: Trigger
+    3300000: Body
+    3300002: BOLT
+    3300004: Cylinder.000
+    3300006: Cylinder.001
+    3300008: Cylinder.002
+    3300010: Cylinder.003
+    3300012: Cylinder.004
+    3300014: Ejector
+    3300016: Grip
+    3300018: Handle
+    3300020: Mag
+    3300022: RearSight
+    3300024: RearSightPart
+    3300026: Stock
+    3300028: Trigger
+    4300000: Body
+    4300002: BOLT
+    4300004: Ejector
+    4300006: RearSight
+    4300008: RearSightPart
+    4300010: Trigger
+    4300012: Grip
+    4300014: Mag
+    4300016: Cylinder.000
+    4300018: Cylinder.004
+    4300020: Cylinder.001
+    4300022: Cylinder.002
+    4300024: Stock
+    4300026: Handle
+    4300028: Cylinder.003
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

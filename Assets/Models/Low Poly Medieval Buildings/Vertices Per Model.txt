@@ -1,0 +1,6 @@
+House 1 = 442
+House 2 = 286
+Inn = 1016
+Blacksmith = 600
+Tower = 313
+Bakery = 578
